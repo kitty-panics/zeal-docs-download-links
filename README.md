@@ -1,2 +1,3 @@
-# zeal-docs-downloader
+# Zeal docs downloader
+
 Zeal docs downloader

@@ -33,6 +33,7 @@ http://london.kapeli.com/feeds/zzz/user_contributed/build/Jenkins_Job_Builder/Je
 http://london.kapeli.com/feeds/zzz/user_contributed/build/vCloud_Director/vCloud_Director.tgz
 http://london.kapeli.com/feeds/zzz/user_contributed/build/WPILib/WPILib.tgz
 http://london.kapeli.com/feeds/zzz/user_contributed/build/Discord4J/Discord4J.tgz
+http://london.kapeli.com/feeds/zzz/user_contributed/build/AtomFlightManual/AtomFlightManual.tgz
 http://london.kapeli.com/feeds/zzz/user_contributed/build/Openvswitch/Openvswitch.tgz
 http://london.kapeli.com/feeds/zzz/user_contributed/build/OpenGL_GLSL/OpenGL_GLSL.tgz
 http://london.kapeli.com/feeds/zzz/user_contributed/build/jBASE/jBASE.tgz
@@ -91,6 +92,7 @@ http://london.kapeli.com/feeds/zzz/user_contributed/build/Vault/Vault.tgz
 http://london.kapeli.com/feeds/zzz/user_contributed/build/Agora_Java/Agora_Java.tgz
 http://london.kapeli.com/feeds/zzz/user_contributed/build/Sublime_Text/Sublime_Text.tgz
 http://london.kapeli.com/feeds/zzz/user_contributed/build/Should.js/should.js.tgz
+http://london.kapeli.com/feeds/zzz/user_contributed/build/Visual_Studio_Code/Visual_Studio_Code.tgz
 http://london.kapeli.com/feeds/zzz/user_contributed/build/Vega-Lite/vega-lite.tgz
 http://london.kapeli.com/feeds/zzz/user_contributed/build/logstash/logstash.tgz
 http://london.kapeli.com/feeds/zzz/user_contributed/build/Intel_Intrinsics/IntelIntrinsics.tgz
@@ -140,6 +142,7 @@ http://london.kapeli.com/feeds/zzz/user_contributed/build/Cinder/Cinder.tgz
 http://london.kapeli.com/feeds/zzz/user_contributed/build/IntelliJ_Platform_SDK/IntelliJ_Platform_SDK.tgz
 http://london.kapeli.com/feeds/zzz/user_contributed/build/MDAnalysis/MDAnalysis.tgz
 http://london.kapeli.com/feeds/zzz/user_contributed/build/Yarn/yarn.tgz
+http://london.kapeli.com/feeds/zzz/user_contributed/build/ACL2/ACL2.tgz
 http://london.kapeli.com/feeds/zzz/user_contributed/build/Netty/Netty.tgz
 http://london.kapeli.com/feeds/zzz/user_contributed/build/Laravel_Zero/laravel-zero.tgz
 http://london.kapeli.com/feeds/zzz/user_contributed/build/RFCs/RFCs.tgz
@@ -179,6 +182,7 @@ http://london.kapeli.com/feeds/zzz/user_contributed/build/odoo_9/Odoo_9.tgz
 http://london.kapeli.com/feeds/zzz/user_contributed/build/Cascading/cascading-2.5.6.tgz
 http://london.kapeli.com/feeds/zzz/user_contributed/build/Mockito/Mockito.tgz
 http://london.kapeli.com/feeds/zzz/user_contributed/build/Google_App_Engine-Python/GAE-Python.tgz
+http://london.kapeli.com/feeds/zzz/user_contributed/build/Mediawiki/Mediawiki.tgz
 http://london.kapeli.com/feeds/zzz/user_contributed/build/OpenEdge/OpenEdge.11.7.2.docset.tgz
 http://london.kapeli.com/feeds/zzz/user_contributed/build/Requests-html/requests-html.tgz
 http://london.kapeli.com/feeds/zzz/user_contributed/build/Agora_Web/Agora_Web.tgz
@@ -285,6 +289,7 @@ http://london.kapeli.com/feeds/zzz/user_contributed/build/LifterLMS/LifterLMS.tg
 http://london.kapeli.com/feeds/zzz/user_contributed/build/ABAP/ABAP.tgz
 http://london.kapeli.com/feeds/zzz/user_contributed/build/Esper/Esper.tgz
 http://london.kapeli.com/feeds/zzz/user_contributed/build/Framework7/Framework7-2.3.1.tgz
+http://london.kapeli.com/feeds/zzz/user_contributed/build/ESLint/ESLint.tgz
 http://london.kapeli.com/feeds/zzz/user_contributed/build/webpack/webpack.tgz
 http://london.kapeli.com/feeds/zzz/user_contributed/build/React_Native/React_Native.tgz
 http://london.kapeli.com/feeds/zzz/user_contributed/build/BungeeCordAPI/BungeeCordAPI.tgz
@@ -306,7 +311,7 @@ http://london.kapeli.com/feeds/zzz/user_contributed/build/eggjs_Chinese/eggjs.cn
 http://london.kapeli.com/feeds/zzz/user_contributed/build/PyGraphviz/PyGraphviz.tgz
 http://london.kapeli.com/feeds/zzz/user_contributed/build/Scikit-image/Scikit-image.tgz
 http://london.kapeli.com/feeds/zzz/user_contributed/build/papermill/papermill.tgz
-http://london.kapeli.com/feeds/zzz/user_contributed/build/Swift/Swift.tgz
+http://london.kapeli.com/feeds/zzz/user_contributed/build/Swift/SwiftLanguageGuide.tgz
 http://london.kapeli.com/feeds/zzz/user_contributed/build/Spacemacs/Spacemacs.tgz
 http://london.kapeli.com/feeds/zzz/user_contributed/build/dolfin/dolfin.tgz
 http://london.kapeli.com/feeds/zzz/user_contributed/build/ki/ki.tgz
@@ -317,6 +322,7 @@ http://london.kapeli.com/feeds/zzz/user_contributed/build/virtualenv/virtualenv.
 http://london.kapeli.com/feeds/zzz/user_contributed/build/Ramda/Ramda.tgz
 http://london.kapeli.com/feeds/zzz/user_contributed/build/Nitrogen/Nitrogen.tgz
 http://london.kapeli.com/feeds/zzz/user_contributed/build/Eigen/Eigen.tgz
+http://london.kapeli.com/feeds/zzz/user_contributed/build/ClickHouse/ClickHouse.tgz
 http://london.kapeli.com/feeds/zzz/user_contributed/build/PySide2/pyside2.tgz
 http://london.kapeli.com/feeds/zzz/user_contributed/build/QuantumESPRESSO/QuantumESPRESSO.tgz
 http://london.kapeli.com/feeds/zzz/user_contributed/build/lxml/lxml.tgz

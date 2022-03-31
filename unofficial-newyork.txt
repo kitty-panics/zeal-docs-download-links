@@ -23,7 +23,7 @@ http://newyork.kapeli.com/feeds/zzz/user_contributed/build/Cassandra/Cassandra.t
 http://newyork.kapeli.com/feeds/zzz/user_contributed/build/uWSGI/uWSGI.tgz
 http://newyork.kapeli.com/feeds/zzz/user_contributed/build/libxml2/libxml2.tgz
 http://newyork.kapeli.com/feeds/zzz/user_contributed/build/SDL/org.libsdl.sdl20.tgz
-http://newyork.kapeli.com/feeds/zzz/user_contributed/build/Zig/zig.tgz
+http://newyork.kapeli.com/feeds/zzz/user_contributed/build/Zig/Zig.tgz
 http://newyork.kapeli.com/feeds/zzz/user_contributed/build/Love2d/love2d.tgz
 http://newyork.kapeli.com/feeds/zzz/user_contributed/build/BootstrapVue/bootstrap-vue.tgz
 http://newyork.kapeli.com/feeds/zzz/user_contributed/build/Box2D/org.box2d.docset.tgz
@@ -39,6 +39,7 @@ http://newyork.kapeli.com/feeds/zzz/user_contributed/build/OpenGL_GLSL/OpenGL_GL
 http://newyork.kapeli.com/feeds/zzz/user_contributed/build/jBASE/jBASE.tgz
 http://newyork.kapeli.com/feeds/zzz/user_contributed/build/WP-CLI/WP-CLI.tgz
 http://newyork.kapeli.com/feeds/zzz/user_contributed/build/UnrealEngine4/UnrealEngine4.tgz
+http://newyork.kapeli.com/feeds/zzz/user_contributed/build/Optuna/Optuna.tgz
 http://newyork.kapeli.com/feeds/zzz/user_contributed/build/Perl6/Perl6.tgz
 http://newyork.kapeli.com/feeds/zzz/user_contributed/build/p5js/p5js.tgz
 http://newyork.kapeli.com/feeds/zzz/user_contributed/build/ReVIEW/ReVIEW.tgz
@@ -54,6 +55,7 @@ http://newyork.kapeli.com/feeds/zzz/user_contributed/build/tldr/tldr_pages.tgz
 http://newyork.kapeli.com/feeds/zzz/user_contributed/build/Packer/Packer.tgz
 http://newyork.kapeli.com/feeds/zzz/user_contributed/build/PyQGIS/PyQGIS.tgz
 http://newyork.kapeli.com/feeds/zzz/user_contributed/build/Keras/Keras.tgz
+http://newyork.kapeli.com/feeds/zzz/user_contributed/build/WPS/WPS.tgz
 http://newyork.kapeli.com/feeds/zzz/user_contributed/build/SPIRV/SPIRV.tgz
 http://newyork.kapeli.com/feeds/zzz/user_contributed/build/SuperCollider/supercollider.tgz
 http://newyork.kapeli.com/feeds/zzz/user_contributed/build/Airflow/Airflow.tgz
@@ -221,6 +223,7 @@ http://newyork.kapeli.com/feeds/zzz/user_contributed/build/redux-saga/redux-saga
 http://newyork.kapeli.com/feeds/zzz/user_contributed/build/eggjs/eggjs.tgz
 http://newyork.kapeli.com/feeds/zzz/user_contributed/build/PyMongo/PyMongo.tgz
 http://newyork.kapeli.com/feeds/zzz/user_contributed/build/Alembic/Alembic.tgz
+http://newyork.kapeli.com/feeds/zzz/user_contributed/build/Arm_Morello_A64_ISA/arm64morello.tgz
 http://newyork.kapeli.com/feeds/zzz/user_contributed/build/HTTP/HTTP.tgz
 http://newyork.kapeli.com/feeds/zzz/user_contributed/build/Alpinejs/alpinejs.tgz
 http://newyork.kapeli.com/feeds/zzz/user_contributed/build/Numba/Numba.tgz
@@ -237,6 +240,7 @@ http://newyork.kapeli.com/feeds/zzz/user_contributed/build/Realm_Java/RealmJava.
 http://newyork.kapeli.com/feeds/zzz/user_contributed/build/Celery/Celery.tgz
 http://newyork.kapeli.com/feeds/zzz/user_contributed/build/Libav/Libav.tgz
 http://newyork.kapeli.com/feeds/zzz/user_contributed/build/DokuWiki/dokuwiki-docset.tgz
+http://newyork.kapeli.com/feeds/zzz/user_contributed/build/Java_Language_Specification/JLS.tgz
 http://newyork.kapeli.com/feeds/zzz/user_contributed/build/PyTables/PyTables.tgz
 http://newyork.kapeli.com/feeds/zzz/user_contributed/build/Bulma/bulma.tgz
 http://newyork.kapeli.com/feeds/zzz/user_contributed/build/GStreamer/GStreamer.tgz
@@ -266,6 +270,7 @@ http://newyork.kapeli.com/feeds/zzz/user_contributed/build/ARM_System_Register/a
 http://newyork.kapeli.com/feeds/zzz/user_contributed/build/Ploi_API/ploi-api.tgz
 http://newyork.kapeli.com/feeds/zzz/user_contributed/build/Standard_ML/SML.docset.tgz
 http://newyork.kapeli.com/feeds/zzz/user_contributed/build/PyMC3/PyMC3.tgz
+http://newyork.kapeli.com/feeds/zzz/user_contributed/build/Trino/Trino.tgz
 http://newyork.kapeli.com/feeds/zzz/user_contributed/build/GDAL/GDAL.tgz
 http://newyork.kapeli.com/feeds/zzz/user_contributed/build/Nomad/Nomad.tgz
 http://newyork.kapeli.com/feeds/zzz/user_contributed/build/PyMel/PyMel.tgz
@@ -278,6 +283,7 @@ http://newyork.kapeli.com/feeds/zzz/user_contributed/build/Cesium/Cesium.tgz
 http://newyork.kapeli.com/feeds/zzz/user_contributed/build/Pandoc/Pandoc.tgz
 http://newyork.kapeli.com/feeds/zzz/user_contributed/build/Nightwatch.js/nightwatchjs.tgz
 http://newyork.kapeli.com/feeds/zzz/user_contributed/build/Pyramid/Pyramid.tgz
+http://newyork.kapeli.com/feeds/zzz/user_contributed/build/django-cms/django-cms.tgz
 http://newyork.kapeli.com/feeds/zzz/user_contributed/build/discord.py/discord.py.tgz
 http://newyork.kapeli.com/feeds/zzz/user_contributed/build/ECharts_Chinese/ECharts.tgz
 http://newyork.kapeli.com/feeds/zzz/user_contributed/build/Sublime_Text_Plugin_API/Sublime_Text_Plugin_API.tgz
@@ -338,6 +344,7 @@ http://newyork.kapeli.com/feeds/zzz/user_contributed/build/Chrome_Extensions_API
 http://newyork.kapeli.com/feeds/zzz/user_contributed/build/Envoy/Envoy.tgz
 http://newyork.kapeli.com/feeds/zzz/user_contributed/build/Google_App_Engine-PHP/GAE-PHP.tgz
 http://newyork.kapeli.com/feeds/zzz/user_contributed/build/WebApp2/WebApp2.tgz
+http://newyork.kapeli.com/feeds/zzz/user_contributed/build/Arm_Morello_System_Registers/armsrmorello.tgz
 http://newyork.kapeli.com/feeds/zzz/user_contributed/build/wxPython/wxPython.tgz
 http://newyork.kapeli.com/feeds/zzz/user_contributed/build/Apache_Nifi/Apache_Nifi.tgz
 http://newyork.kapeli.com/feeds/zzz/user_contributed/build/R5RS/R5RS.tgz
@@ -349,6 +356,7 @@ http://newyork.kapeli.com/feeds/zzz/user_contributed/build/Flow/Flow.tgz
 http://newyork.kapeli.com/feeds/zzz/user_contributed/build/IntelASMx86/IntelASMx86.tgz
 http://newyork.kapeli.com/feeds/zzz/user_contributed/build/pup/pup.tgz
 http://newyork.kapeli.com/feeds/zzz/user_contributed/build/Bullet/org.bulletphysics.docset.tgz
+http://newyork.kapeli.com/feeds/zzz/user_contributed/build/quimb/quimb.tgz
 http://newyork.kapeli.com/feeds/zzz/user_contributed/build/PlayCanvas/PlayCanvas.tgz
 http://newyork.kapeli.com/feeds/zzz/user_contributed/build/Apache_Ant/apache-ant.tgz
 http://newyork.kapeli.com/feeds/zzz/user_contributed/build/CodeMirror/codemirror.tgz
@@ -374,6 +382,7 @@ http://newyork.kapeli.com/feeds/zzz/user_contributed/build/RxJava/RxJava.tgz
 http://newyork.kapeli.com/feeds/zzz/user_contributed/build/LiveScript/LiveScript.tgz
 http://newyork.kapeli.com/feeds/zzz/user_contributed/build/xgboost/XGBoost.tgz
 http://newyork.kapeli.com/feeds/zzz/user_contributed/build/PeopleTools/PeopleTools.tgz
+http://newyork.kapeli.com/feeds/zzz/user_contributed/build/Deno/Deno.tgz
 http://newyork.kapeli.com/feeds/zzz/user_contributed/build/LLVM/LLVM.tgz
 http://newyork.kapeli.com/feeds/zzz/user_contributed/build/Nim/Nim.tgz
 http://newyork.kapeli.com/feeds/zzz/user_contributed/build/CUDA/CUDA.tgz
@@ -432,6 +441,7 @@ http://newyork.kapeli.com/feeds/zzz/user_contributed/build/xarray/xarray.tgz
 http://newyork.kapeli.com/feeds/zzz/user_contributed/build/Android_KTX/Android_KTX.tgz
 http://newyork.kapeli.com/feeds/zzz/user_contributed/build/Spring_Boot/Spring_Boot.tgz
 http://newyork.kapeli.com/feeds/zzz/user_contributed/build/discord.js/discord.js.tgz
+http://newyork.kapeli.com/feeds/zzz/user_contributed/build/MOS_Protocol/MOS_Protocol_2.8.5.tgz
 http://newyork.kapeli.com/feeds/zzz/user_contributed/build/POI/POI.tgz
 http://newyork.kapeli.com/feeds/zzz/user_contributed/build/Carbon/Carbon.tgz
 http://newyork.kapeli.com/feeds/zzz/user_contributed/build/HAProxy_Lua/HAProxyLua.tgz
@@ -466,6 +476,7 @@ http://newyork.kapeli.com/feeds/zzz/user_contributed/build/Vibe.d/Vibed.tgz
 http://newyork.kapeli.com/feeds/zzz/user_contributed/build/Defold/Defold.tgz
 http://newyork.kapeli.com/feeds/zzz/user_contributed/build/Dask/Dask.tgz
 http://newyork.kapeli.com/feeds/zzz/user_contributed/build/Alfred/alfred.tgz
+http://newyork.kapeli.com/feeds/zzz/user_contributed/build/norns/norns.tgz
 http://newyork.kapeli.com/feeds/zzz/user_contributed/build/graphql/graphql.tgz
 http://newyork.kapeli.com/feeds/zzz/user_contributed/build/Constraid/Constraid.tgz
 http://newyork.kapeli.com/feeds/zzz/user_contributed/build/J/J.tgz

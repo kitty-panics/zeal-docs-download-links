@@ -172,6 +172,7 @@ http://tokyo.kapeli.com/feeds/Ruby_on_Rails_3.tgz
 http://tokyo.kapeli.com/feeds/Ruby_on_Rails_4.tgz
 http://tokyo.kapeli.com/feeds/Ruby_on_Rails_5.tgz
 http://tokyo.kapeli.com/feeds/Ruby_on_Rails_6.tgz
+http://tokyo.kapeli.com/feeds/Ruby_on_Rails_7.tgz
 http://tokyo.kapeli.com/feeds/Ruby.tgz
 http://tokyo.kapeli.com/feeds/Rust.tgz
 http://tokyo.kapeli.com/feeds/R.tgz

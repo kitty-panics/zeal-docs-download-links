@@ -9,11 +9,11 @@ Zeal 的文档分为官方维护和第三方维护两类。这两类都提供了
     + [sanfrancisco]
     + [tokyo]
 + [非官方]
-    + [frankfurt ]
-    + [london ]
-    + [newyork ]
-    + [sanfrancisco ]
-    + [tokyo ]
+    + [frankfurt (法兰克福)]
+    + [london (伦敦)]
+    + [newyork (纽约)]
+    + [sanfrancisco (旧金山)]
+    + [tokyo (东京)]
 
 [frankfurt]: https://github.com/kitty-panics/zeal-docs-downloader/blob/master/official-frankfurt.txt
 [london]: https://github.com/kitty-panics/zeal-docs-downloader/blob/master/official-london.txt
@@ -21,11 +21,11 @@ Zeal 的文档分为官方维护和第三方维护两类。这两类都提供了
 [sanfrancisco]: https://github.com/kitty-panics/zeal-docs-downloader/blob/master/official-sanfrancisco.txt
 [tokyo]: https://github.com/kitty-panics/zeal-docs-downloader/blob/master/official-tokyo.txt
 [非官方]: https://github.com/kitty-panics/zeal-docs-downloader/blob/master/unofficial.txt
-[frankfurt ]: https://github.com/kitty-panics/zeal-docs-downloader/blob/master/unofficial-frankfurt.txt
-[london ]: https://github.com/kitty-panics/zeal-docs-downloader/blob/master/unofficial-london.txt
-[newyork ]: https://github.com/kitty-panics/zeal-docs-downloader/blob/master/unofficial-newyork.txt
-[sanfrancisco ]: https://github.com/kitty-panics/zeal-docs-downloader/blob/master/unofficial-sanfrancisco.txt
-[tokyo ]: https://github.com/kitty-panics/zeal-docs-downloader/blob/master/unofficial-tokyo.txt
+[frankfurt (法兰克福)]: https://github.com/kitty-panics/zeal-docs-downloader/blob/master/unofficial-frankfurt.txt
+[london (伦敦)]: https://github.com/kitty-panics/zeal-docs-downloader/blob/master/unofficial-london.txt
+[newyork (纽约)]: https://github.com/kitty-panics/zeal-docs-downloader/blob/master/unofficial-newyork.txt
+[sanfrancisco (旧金山)]: https://github.com/kitty-panics/zeal-docs-downloader/blob/master/unofficial-sanfrancisco.txt
+[tokyo (东京)]: https://github.com/kitty-panics/zeal-docs-downloader/blob/master/unofficial-tokyo.txt
 
 ## 使用
 

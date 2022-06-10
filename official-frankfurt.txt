@@ -93,6 +93,7 @@ http://frankfurt.kapeli.com/feeds/Java_SE14.tgz
 http://frankfurt.kapeli.com/feeds/Java_SE15.tgz
 http://frankfurt.kapeli.com/feeds/Java_SE16.tgz
 http://frankfurt.kapeli.com/feeds/Java_SE17.tgz
+http://frankfurt.kapeli.com/feeds/Java_SE18.tgz
 http://frankfurt.kapeli.com/feeds/Java_SE6.tgz
 http://frankfurt.kapeli.com/feeds/Java_SE7.tgz
 http://frankfurt.kapeli.com/feeds/Java_SE8.tgz

@@ -57,6 +57,7 @@ http://sanfrancisco.kapeli.com/feeds/zzz/user_contributed/build/PyQGIS/PyQGIS.tg
 http://sanfrancisco.kapeli.com/feeds/zzz/user_contributed/build/Keras/Keras.tgz
 http://sanfrancisco.kapeli.com/feeds/zzz/user_contributed/build/WPS/WPS.tgz
 http://sanfrancisco.kapeli.com/feeds/zzz/user_contributed/build/SPIRV/SPIRV.tgz
+http://sanfrancisco.kapeli.com/feeds/zzz/user_contributed/build/Purpur/Purpur.tgz
 http://sanfrancisco.kapeli.com/feeds/zzz/user_contributed/build/SuperCollider/supercollider.tgz
 http://sanfrancisco.kapeli.com/feeds/zzz/user_contributed/build/Airflow/Airflow.tgz
 http://sanfrancisco.kapeli.com/feeds/zzz/user_contributed/build/Snap.svg/Snap.svg.tgz
@@ -67,6 +68,7 @@ http://sanfrancisco.kapeli.com/feeds/zzz/user_contributed/build/pnpm/pnpm.tgz
 http://sanfrancisco.kapeli.com/feeds/zzz/user_contributed/build/kafka/Kafka.tgz
 http://sanfrancisco.kapeli.com/feeds/zzz/user_contributed/build/marshmallow/marshmallow.tgz
 http://sanfrancisco.kapeli.com/feeds/zzz/user_contributed/build/json-schema/json-schema.tgz
+http://sanfrancisco.kapeli.com/feeds/zzz/user_contributed/build/Velocity/Velocity.tgz
 http://sanfrancisco.kapeli.com/feeds/zzz/user_contributed/build/Org_Mode/Org_Mode.tgz
 http://sanfrancisco.kapeli.com/feeds/zzz/user_contributed/build/Android_Gradle_Plugin/Android_Gradle_Plugin.tgz
 http://sanfrancisco.kapeli.com/feeds/zzz/user_contributed/build/Expo/expo.tgz
@@ -150,6 +152,7 @@ http://sanfrancisco.kapeli.com/feeds/zzz/user_contributed/build/Laravel_Zero/lar
 http://sanfrancisco.kapeli.com/feeds/zzz/user_contributed/build/RFCs/RFCs.tgz
 http://sanfrancisco.kapeli.com/feeds/zzz/user_contributed/build/Apex/Apex.tgz
 http://sanfrancisco.kapeli.com/feeds/zzz/user_contributed/build/Django_REST_Framework/django-rest-framework.tgz
+http://sanfrancisco.kapeli.com/feeds/zzz/user_contributed/build/Arm_A-Profile_System_Registers/armsr.tgz
 http://sanfrancisco.kapeli.com/feeds/zzz/user_contributed/build/npm/npm.tgz
 http://sanfrancisco.kapeli.com/feeds/zzz/user_contributed/build/Armv8_System_Registers/armsrv8.tgz
 http://sanfrancisco.kapeli.com/feeds/zzz/user_contributed/build/Pure/Pure.tgz
@@ -167,7 +170,7 @@ http://sanfrancisco.kapeli.com/feeds/zzz/user_contributed/build/ThinkJS/ThinkJS.
 http://sanfrancisco.kapeli.com/feeds/zzz/user_contributed/build/RuboCop/RuboCop.tgz
 http://sanfrancisco.kapeli.com/feeds/zzz/user_contributed/build/JSON_for_Modern_C++/JSON_for_Modern_C++.tgz
 http://sanfrancisco.kapeli.com/feeds/zzz/user_contributed/build/Mjolnir/Mjolnir.tgz
-http://sanfrancisco.kapeli.com/feeds/zzz/user_contributed/build/OpenUI5/OpenUI5.tgz
+http://sanfrancisco.kapeli.com/feeds/zzz/user_contributed/build/OpenUI5/UI5.tgz
 http://sanfrancisco.kapeli.com/feeds/zzz/user_contributed/build/Basscss/basscss.tgz
 http://sanfrancisco.kapeli.com/feeds/zzz/user_contributed/build/Powershell/Powershell.tgz
 http://sanfrancisco.kapeli.com/feeds/zzz/user_contributed/build/Hy/Hy.tgz
@@ -254,6 +257,7 @@ http://sanfrancisco.kapeli.com/feeds/zzz/user_contributed/build/BungeeCordChat/B
 http://sanfrancisco.kapeli.com/feeds/zzz/user_contributed/build/Salyut_zh_cn/salyut_zh_cn.tgz
 http://sanfrancisco.kapeli.com/feeds/zzz/user_contributed/build/CanJS/CanJS.tgz
 http://sanfrancisco.kapeli.com/feeds/zzz/user_contributed/build/Boto/boto.tgz
+http://sanfrancisco.kapeli.com/feeds/zzz/user_contributed/build/Arm_A-Profile_A32_and_T32_ISA/arm32.tgz
 http://sanfrancisco.kapeli.com/feeds/zzz/user_contributed/build/Parse_iOS_SDK/Parse-iOS-SDK.tgz
 http://sanfrancisco.kapeli.com/feeds/zzz/user_contributed/build/MODX/MODX.tgz
 http://sanfrancisco.kapeli.com/feeds/zzz/user_contributed/build/Pin/Pin_Docset.tgz
@@ -309,6 +313,7 @@ http://sanfrancisco.kapeli.com/feeds/zzz/user_contributed/build/FLTK/FLTK.tgz
 http://sanfrancisco.kapeli.com/feeds/zzz/user_contributed/build/Crystal/Crystal.tgz
 http://sanfrancisco.kapeli.com/feeds/zzz/user_contributed/build/LibROSA/librosa.tgz
 http://sanfrancisco.kapeli.com/feeds/zzz/user_contributed/build/glibc/glibc.tgz
+http://sanfrancisco.kapeli.com/feeds/zzz/user_contributed/build/Arm_A-Profile_A64_ISA/arm64.tgz
 http://sanfrancisco.kapeli.com/feeds/zzz/user_contributed/build/GNU_Guile/GNU_Guile.tgz
 http://sanfrancisco.kapeli.com/feeds/zzz/user_contributed/build/Fiona/fiona.tgz
 http://sanfrancisco.kapeli.com/feeds/zzz/user_contributed/build/Hypothesis/Hypothesis.tgz
@@ -442,6 +447,7 @@ http://sanfrancisco.kapeli.com/feeds/zzz/user_contributed/build/Android_KTX/Andr
 http://sanfrancisco.kapeli.com/feeds/zzz/user_contributed/build/Spring_Boot/Spring_Boot.tgz
 http://sanfrancisco.kapeli.com/feeds/zzz/user_contributed/build/discord.js/discord.js.tgz
 http://sanfrancisco.kapeli.com/feeds/zzz/user_contributed/build/MOS_Protocol/MOS_Protocol_2.8.5.tgz
+http://sanfrancisco.kapeli.com/feeds/zzz/user_contributed/build/Paper/Paper.tgz
 http://sanfrancisco.kapeli.com/feeds/zzz/user_contributed/build/POI/POI.tgz
 http://sanfrancisco.kapeli.com/feeds/zzz/user_contributed/build/Carbon/Carbon.tgz
 http://sanfrancisco.kapeli.com/feeds/zzz/user_contributed/build/HAProxy_Lua/HAProxyLua.tgz
